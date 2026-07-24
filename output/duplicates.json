@@ -1,0 +1,702 @@
+[
+  {
+    "code": "GTS-2151",
+    "kept_page": 220,
+    "discarded_page": 222,
+    "kept_record": {
+      "code": "GTS-2151",
+      "name": "PARLANTE GTS",
+      "brand": null,
+      "price": 20.0,
+      "description": "• MODELO : PARLANTE\nRECARGABLE GTS\n• TAMAÑO: BOCINA 4″\nPULGADAS\n• FUNCIONES: USB, MICRO SD,\nRADIO FM,BLUETOOTH\n• CONTENIDO: CABLE DE\nCARGA,\n• RANGO DE SONIDO: 10 M\n• LUCES RGB\n• COLOR NEGRO",
+      "image": "images/GTS-2151.jpg",
+      "page": 220,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "GTS-2151",
+      "name": "PARLANTE GTS",
+      "brand": null,
+      "price": 20.0,
+      "description": "• MODELO : PARLANTE\nRECARGABLE GTS\n• TAMAÑO: BOCINA 4″\nPULGADAS\n• FUNCIONES: USB, MICRO SD,\nRADIO FM,BLUETOOTH\n• CONTENIDO: CABLE DE\nCARGA,\n• RANGO DE SONIDO: 10 M\n• LUCES RGB\n• COLOR NEGRO",
+      "image": "images/GTS-2151.jpg",
+      "page": 222,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "KTS-1706",
+    "kept_page": 233,
+    "discarded_page": 238,
+    "kept_record": {
+      "code": "KTS-1706",
+      "name": "PARLANTE KTS",
+      "brand": null,
+      "price": 22.0,
+      "description": "• PRODUCTO: PARLANTE\nRECARGABLE\n• ENTRADAS: AUX,LECTORA DE\nUSB, MEMORIA, BLUETOOTH\nY RADIO FM.\n• DISEÑO: CABLE CARGADOR,\nLINTERNA LATERAS, TIRA\nSUJETADORA",
+      "image": "images/KTS-1706.jpg",
+      "page": 233,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "KTS-1706",
+      "name": "PARLANTE KTS",
+      "brand": null,
+      "price": 22.0,
+      "description": "• PARLANTE RECARGABLE BLUETOOTH\n• ENTRADA LECTORA DE USB Y\nMEMORIA\n• RADIO FM\n• LINTERNA LATERAL\n• TIRA SUJETADORA\n• CABLE DE CARGA",
+      "image": "images/KTS-1706.jpg",
+      "page": 238,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "GTS-2450",
+    "kept_page": 275,
+    "discarded_page": 278,
+    "kept_record": {
+      "code": "GTS-2450",
+      "name": "PARLANTE GTS",
+      "brand": null,
+      "price": 36.0,
+      "description": "• MODELO : PARLANTE\nRECARGABLE\n• ALTAVOZ : 8 PULGADAS\n• ALIMENTACION ELECTRICA\n• FUNCIONES: USB, MICRO\nSD, RADIO FM,BLUETOOTH\n• CONTENIDO: CABLE DE\nCARGA\n• MICROFONO ALAMBRICO\n• LUCES RGB",
+      "image": "images/GTS-2450.jpg",
+      "page": 275,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "GTS-2450",
+      "name": "PARLANTE GTS",
+      "brand": null,
+      "price": 36.0,
+      "description": "• MODELO: PARLANTE\nRECARGABLE GTS\n• FUNCIONES: BLUETOOTH,\nLECTOR MEMORIA- USB,\nRADIO FM,AUX\n• BOCINA : 3” PULGADAS\n• CONTENIDO: CABLE\nCARGADOR TIPO V8\n• LUCES RGB",
+      "image": "images/GTS-2450.jpg",
+      "page": 278,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "GTS-2087",
+    "kept_page": 361,
+    "discarded_page": 358,
+    "kept_record": {
+      "code": "GTS-2087",
+      "name": "PARLANTE GTS",
+      "brand": null,
+      "price": 80.0,
+      "description": "• MODELO : PARLANTE\nRECARGABLE\n• ALTAVOZ : 8 PULGADAS\n• ALIMENTACION ELECTRICA\n• FUNCIONES: USB, MICRO\nSD, RADIO FM,BLUETOOTH\n• CONTENIDO: CABLE DE\nCARGA\n• MICROFONO ALAMBRICO\n• LUCES RGB",
+      "image": "images/GTS-2087.jpg",
+      "page": 361,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "GTS-2087",
+      "name": "PARLANTE GTS",
+      "brand": null,
+      "price": 80.0,
+      "description": "• PARLANTE RECARGABLE\nBLUETOOTH\n• DOBLE BOCINA 8” PULGADAS\n• ENTRADA LECTORA DE USB Y\nMEMORIA\n• RADIO FM\n• MICROFONO ALAMBRICO\n• CABLE DE CARGA",
+      "image": "images/GTS-2087.jpg",
+      "page": 358,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "H80",
+    "kept_page": 534,
+    "discarded_page": 527,
+    "kept_record": {
+      "code": "H80",
+      "name": "TIPO C AUDIFONO MICCELL",
+      "brand": null,
+      "price": 6.0,
+      "description": "• CONECTOR: TIPO USB-C\n• FUNCIONALIDADES: INCLUYE\nMICRÓFONO INTEGRADO\nPARA LLAMADAS Y CONTROL\nDE VOLUMEN.\n• AUDIO: DISEÑO ESTÉREO DE\nALTA FIDELIDAD.\n• DISEÑO: AURICULARES\nCÓMODOS CON DRIVERS DE\n10MM PARA SONIDO\nPRECISO.",
+      "image": "images/H80.jpg",
+      "page": 534,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "H80",
+      "name": "AUDIFONO MICCELL",
+      "brand": null,
+      "price": 3.5,
+      "description": "• TIPO: AUDÍFONOS IN-EAR\nCABLEADOS.\n• CONECTOR: JACK DE 3.5 MM.\n• CARACTERÍSTICA: INCLUYEN\nMICRÓFONO INCORPORADO\nPARA LLAMADAS MANOS\nLIBRES.\n• DISEÑO: ERGONÓMICO PARA\nMAYOR COMODIDAD EN EL\nOÍDO.",
+      "image": "images/H80.jpg",
+      "page": 527,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "T22",
+    "kept_page": 633,
+    "discarded_page": 1077,
+    "kept_record": {
+      "code": "T22",
+      "name": "AUDIFONO MOVISUN",
+      "brand": null,
+      "price": 38.0,
+      "description": "• AUDIFONOS INALAMBRICOS\n• CONECTIVIDAD: TECNOLOGÍA\nBLUETOOTH 5.4\n• CUENTA CON TECNOLOGIA TWS Y\nMICROFONO INCORPORADO.\n• BATERIA:300MAH\n• ACCESORIOS: INCLUYEN UN\nESTUCHE DE CARGA, UN CABLE\nCARGADOR , FUNDA PROTECTORA\nY CHUPONES DE CAMBIO",
+      "image": "images/T22.jpg",
+      "page": 633,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "T22",
+      "name": "CABEZAL MICCELL",
+      "brand": null,
+      "price": 12.0,
+      "description": "• PRODUCTO: CABEZAL\nCOMPLETO DE CARGA\nRAPIDA\n• POTENCIA DE 20W.\n• CONTENIDO: INCLUYE UN\nPUERTO USB Y UN PUERTO\nTIPO C .",
+      "image": "images/T22.jpg",
+      "page": 1077,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "T15",
+    "kept_page": 642,
+    "discarded_page": 1078,
+    "kept_record": {
+      "code": "T15",
+      "name": "AUDIFONO MOVISUN",
+      "brand": null,
+      "price": 45.0,
+      "description": "•\nPRODUCTO: AUDIFONO\n•\nENTRADA  DE CARGA TIPO C\n•\nCUENTA CON SENSOR TACTIL Y\nMICROFONO INCORPORADO.\n•\nINCLUYE: CABLE CARGADOR Y\nESTUCHE CON FORRO",
+      "image": "images/T15.jpg",
+      "page": 642,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "T15",
+      "name": "CABEZAL MICCELL",
+      "brand": null,
+      "price": 40.0,
+      "description": "• PRODUCTO: CABEZAL\n• MODELO:  MICCELL\n• POTENCIA: 65W\n• 2 PUERTOS USB-C\n• 1 PUERTO USB-A",
+      "image": "images/T15.jpg",
+      "page": 1078,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "QX-260",
+    "kept_page": 744,
+    "discarded_page": 728,
+    "kept_record": {
+      "code": "QX-260",
+      "name": "ARO DE LUZ TIK TOK",
+      "brand": null,
+      "price": 20.0,
+      "description": "•\nKIT:LUZ LED+TRÍPODE\n•\nPANEL DE ILUMINACIÓN LED PARA\nESTUDIO.\n•\nCARACTERÍSTICAS: ILUMINACIÓN\nLED REGULABLE , GRABACIÓN DE\nVIDEOS, ESTUDIO FOTOGRAFÍA\n•\nALIMENTACIÓN: ELÉCTRICA\n•\nCONTIENE: 1 ARO  LUZ LED 10\nPULGADAS\n•\n1 TRÍPODE  45CM\n•\n1 CONTROL PARA CAMBIO DE\nLUCES\n•\nACCESORIOS DE INSTALACIÓN",
+      "image": "images/QX-260.jpg",
+      "page": 744,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "QX-260",
+      "name": "MINI ARO DE LUZ",
+      "brand": null,
+      "price": 20.0,
+      "description": "• TRÍPODE AJUSTABLE PARA MESA O\nSUELO, PERMITIENDO DIVERSAS\nALTURAS Y ÁNGULOS.\n• CUENTA CON SOPORTE PARA\nCELULAR Y UN CONTROL PARA\nAJUSTAR LA INTENSIDAD Y\nTEMPERATURA DEL BRILLO (FRÍO,\nCÁLIDO, NEUTRO).\n• DIÁMETRO APROXIMADO DE 10\nPULGADAS (26CM).\n• SE ALIMENTA MEDIANTE\nCONEXIÓN USB.",
+      "image": "images/QX-260.jpg",
+      "page": 728,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "D34",
+    "kept_page": 1051,
+    "discarded_page": 1045,
+    "kept_record": {
+      "code": "D34",
+      "name": "CABLE MICCELL CaC",
+      "brand": null,
+      "price": 6.5,
+      "description": "• POTENCIA: SOPORTA CARGA\nRÁPIDA DE HASTA 100W.\n• INTENSIDAD: SOPORTA HASTA 5\nAMPERIOS.\n• LONGITUD: MIDE 120 CM (O\n1.2 METROS).\n• MATERIAL: CARCASA DE\nALEACIÓN DE ALUMINIO Y\nCABLE C A C TRENZADO DE\nNAILON REFORZADO.",
+      "image": "images/D34.jpg",
+      "page": 1051,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "D34",
+      "name": "CABLE MICCELL",
+      "brand": null,
+      "price": 7.0,
+      "description": "• POTENCIA: SOPORTA HASTA\n60W DE CARGA RÁPIDA.\n• TIPO DE CONECTOR:TIPO-C A\nTIPO-C.\n• LONGITUD: 150 CM.\n• COLORES: NARANJA Y\nNEGRO",
+      "image": "images/D34.jpg",
+      "page": 1045,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "D34",
+    "kept_page": 1051,
+    "discarded_page": 1047,
+    "kept_record": {
+      "code": "D34",
+      "name": "CABLE MICCELL CaC",
+      "brand": null,
+      "price": 6.5,
+      "description": "• POTENCIA: SOPORTA CARGA\nRÁPIDA DE HASTA 100W.\n• INTENSIDAD: SOPORTA HASTA 5\nAMPERIOS.\n• LONGITUD: MIDE 120 CM (O\n1.2 METROS).\n• MATERIAL: CARCASA DE\nALEACIÓN DE ALUMINIO Y\nCABLE C A C TRENZADO DE\nNAILON REFORZADO.",
+      "image": "images/D34.jpg",
+      "page": 1051,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "D34",
+      "name": "CABLE MICCELL",
+      "brand": null,
+      "price": 8.0,
+      "description": "• CABLE CARGA RAPIDA\nLONGITUD:3M\n• ENTRADA DE USB A TIPO C\n• CABLE TRENZADO DE\nNAILON PARA MAYOR\nDURABILIDAD.",
+      "image": "images/D34.jpg",
+      "page": 1047,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RD-6132C",
+    "kept_page": 1096,
+    "discarded_page": 1107,
+    "kept_record": {
+      "code": "RD-6132C",
+      "name": "CARGADOR REDD TIPO C",
+      "brand": null,
+      "price": 9.5,
+      "description": "• PRODUCTO: CARGADOR\nCOMPLETO\n• POTENCIA: 75W\n• LONGITUD:1000MM\n• TIPO C\n• SALIDA: 7.2A\n• CARACTERÍSTICAS: CARGA\nRÁPIDA",
+      "image": "images/RD-6132C.jpg",
+      "page": 1096,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RD-6132C",
+      "name": "CARGADOR REDD TIPO C",
+      "brand": null,
+      "price": 9.5,
+      "description": "• PRODUCTO: CARGADOR\nCOMPLETO\n• POTENCIA: 75W\n• LONGITUD:1000MM\n• TIPO C\n• SALIDA: 7.2A\n• CARACTERÍSTICAS: CARGA\nRÁPIDA",
+      "image": "images/RD-6132C.jpg",
+      "page": 1107,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "BL-E203CD",
+    "kept_page": 1118,
+    "discarded_page": 1124,
+    "kept_record": {
+      "code": "BL-E203CD",
+      "name": "CARGADOR BLESS",
+      "brand": null,
+      "price": 11.0,
+      "description": "• PRODUCTO: CARGADOR\nCOMPLETO\n• POTENCIA:85W\n• LONGITUD:1000MM\n• TIPO: CABLE TIPO C\n• CARACTERÍSTICAS: CABEZAL\nCON ENTRADA USB Y\nENTRADA TIPO CARGA\nRAPIDA",
+      "image": "images/BL-E203CD.jpg",
+      "page": 1118,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "BL-E203CD",
+      "name": "CARGADOR BLESS",
+      "brand": null,
+      "price": 11.0,
+      "description": "• PRODUCTO: CARGADOR\nCOMPLETO\n• POTENCIA:85W\n• LONGITUD:1000MM\n• TIPO: CABLE TIPO C\n• CARACTERÍSTICAS: CABEZAL\nCON ENTRADA USB Y\nENTRADA TIPO CARGA\nRAPIDA",
+      "image": "images/BL-E203CD.jpg",
+      "page": 1124,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1280,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR: VERDE AGUA,\nROSADO, CELESTE,\nNEGRO, PLOMO,CREMA,\nBLANCO,FUSCIA",
+      "image": "images/RPM-100.jpg",
+      "page": 1280,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1279,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR: VERDE AGUA,\nLILA, ROSADO, CELESTE,\nNEGRO, AZUL,\nPLOMO,CREMA",
+      "image": "images/RPM-100.jpg",
+      "page": 1279,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1271,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR :MARRON,\nROSADO,CREMA ,LILA,\nVERDE\nAGUA,BLANCO,NEGRO,\nROJO",
+      "image": "images/RPM-100.jpg",
+      "page": 1271,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1267,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nCREMA, MARON,\nROSADO, VINOTINTO",
+      "image": "images/RPM-100.jpg",
+      "page": 1267,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1269,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR : NEGRO, CREMA,\nMARRON,VERDE,CELESTE\n, AZUL,VERDE MILITAR",
+      "image": "images/RPM-100.jpg",
+      "page": 1269,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1270,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR : NEGRO, CREMA,\nLILA,ROSADO,CELESTE,VE\nRDE AGUA ,BLANCO",
+      "image": "images/RPM-100.jpg",
+      "page": 1270,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1272,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR : ROSADO,CREMA\n,LILA, VERDE,NEGRO,\nCELESTE,AZUL CLARO",
+      "image": "images/RPM-100.jpg",
+      "page": 1272,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1277,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR: NEGRO,\nROSADO,VERDE,CREMA,\nAZUL,CELESTE,\nVINOTINTO",
+      "image": "images/RPM-100.jpg",
+      "page": 1277,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1281,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR: BLANCO,FUSCIA,\nPLOMO,\nROSADO,MARRON,\nCREMA, NEGRO",
+      "image": "images/RPM-100.jpg",
+      "page": 1281,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1273,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR :NEGRO, ROSADO,\nFUSCIA,\nPLOMO,MARRON,CREMA\n,VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1273,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1265,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:ROJO, ROSADO,\nAZUL,VERDE,BLANCO,\nNEGRO, MARRON",
+      "image": "images/RPM-100.jpg",
+      "page": 1265,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1276,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR:\nNEGRO,MARRON,\nROSADO, PLOMO,\nBLANCO,VERDE,CREMA",
+      "image": "images/RPM-100.jpg",
+      "page": 1276,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1266,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES: NEGRO,\nVERDE, LILA,CREMA,\nROSADO,VINOTINTO",
+      "image": "images/RPM-100.jpg",
+      "page": 1266,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1274,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR :NEGRO, ROSADO,\nROJO,LILA,CELESTE,\nCREMA.",
+      "image": "images/RPM-100.jpg",
+      "page": 1274,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1275,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR :NEGRO, ROSADO,\nCELESTE, BLANCO,VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1275,
+      "confidence": 0.9
+    }
+  },
+  {
+    "code": "RPM-100",
+    "kept_page": 1268,
+    "discarded_page": 1278,
+    "kept_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLORES:NEGRO,\nBLANCO, CELESTE,\nMARON, ROSADO,\nVINOTINTO, AZUL, VERDE",
+      "image": "images/RPM-100.jpg",
+      "page": 1268,
+      "confidence": 0.9
+    },
+    "discarded_record": {
+      "code": "RPM-100",
+      "name": "RELOJ",
+      "brand": null,
+      "price": 10.0,
+      "description": "• PRODUCTO: RELOJ\nPULSERA\n• PRODUCTO: RELOJ\n• CARACTERISTÍCAS:\nINDICA HORA\n• COLOR: ROJO,\nMARRON,BLANCO,\nLILA,ROSADO",
+      "image": "images/RPM-100.jpg",
+      "page": 1278,
+      "confidence": 0.9
+    }
+  }
+]

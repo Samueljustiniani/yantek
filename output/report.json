@@ -1,0 +1,13 @@
+{
+  "total_pages": 1321,
+  "pages_processed": 1321,
+  "products_found": 1279,
+  "products_with_images": 1279,
+  "products_without_images": 0,
+  "products_with_price": 1278,
+  "products_without_price": 1,
+  "products_with_code": 1174,
+  "products_without_code": 105,
+  "errors": 106,
+  "processing_time_seconds": 59.55
+}

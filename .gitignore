@@ -1,0 +1,3 @@
+*.pdf
+.progress.json
+__pycache__/
