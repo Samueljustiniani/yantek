@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/output/index.html" },
+    { "source": "/products.json", "destination": "/output/products.json" },
+    { "source": "/products.csv", "destination": "/output/products.csv" },
+    { "source": "/images/:path*", "destination": "/output/images/:path*" }
+  ]
+}
