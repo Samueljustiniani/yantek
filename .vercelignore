@@ -1,4 +1,4 @@
-# Exclude large binary and source files from Vercel deployment
+# Exclude source code, large binaries, and redundant output folder
 *.pdf
 *.py
 __pycache__/
@@ -6,6 +6,7 @@ __pycache__/
 .git/
 .env*
 .progress.json
+output/
 task.md
 walkthrough.md
 implementation_plan.md
